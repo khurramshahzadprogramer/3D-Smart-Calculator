@@ -199,11 +199,10 @@ Just open it and use it.
 
 **KHURRAM CALCULATOR PRO** focuses on three things:
 
-``` text
+
 ⚡ Functionality
 🎨 Premium Design
 📱 User Experience
-```
 
 The goal is to make a common calculator feel more like a polished modern
 web application.
@@ -247,7 +246,7 @@ A calculator doesn't have to look ordinary.
 
 ------------------------------------------------------------------------
 
-```{=html}
+ 
 ```
 ### 🧮 KHURRAM CALCULATOR PRO
 
@@ -255,6 +254,6 @@ A calculator doesn't have to look ordinary.
 
 ⭐ If you like the project, consider giving it a star!
 
-```{=html}
+ 
 
 ```
