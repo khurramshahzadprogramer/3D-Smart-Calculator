@@ -245,11 +245,10 @@ I build modern web experiences with a focus on:
 A calculator doesn't have to look ordinary.
 
 ------------------------------------------------------------------------
--
+
 
 ```{=html}
-<p align="center">
-```
+
 ### 🧮 KHURRAM CALCULATOR PRO
 
 **Built with ❤️ by Khurram Shahzad**
@@ -257,5 +256,3 @@ A calculator doesn't have to look ordinary.
 ⭐ If you like the project, consider giving it a star!
 
 ```{=html}
-</p>
-```
