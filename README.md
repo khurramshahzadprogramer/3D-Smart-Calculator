@@ -246,13 +246,10 @@ A calculator doesn't have to look ordinary.
 
 ------------------------------------------------------------------------
 
-
-```{=html}
-
 ### 🧮 KHURRAM CALCULATOR PRO
 
 **Built with ❤️ by Khurram Shahzad**
 
 ⭐ If you like the project, consider giving it a star!
 
-```{=html}
+
