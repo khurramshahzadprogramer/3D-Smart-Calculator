@@ -195,11 +195,11 @@ No:
 Just open it and use it.
 
  
-
 ## 🧠 Design Philosophy
 
 **KHURRAM CALCULATOR PRO** focuses on three things:
- 
+
+``` text
 ⚡ Functionality
 🎨 Premium Design
 📱 User Experience
@@ -207,6 +207,8 @@ Just open it and use it.
 
 The goal is to make a common calculator feel more like a polished modern
 web application.
+
+------------------------------------------------------------------------
 
 ## 📊 Project Overview
 
@@ -221,7 +223,9 @@ web application.
   Backend        None
   API            None
   Responsive     ✅ Yes
- 
+
+------------------------------------------------------------------------
+
 ## 👨‍💻 Creator
 
 ### **Khurram Shahzad**
@@ -232,16 +236,26 @@ I build modern web experiences with a focus on:
 
 `🌐 Web Development` · `🤖 AI` · `🎨 UI/UX` ·
 `✨ Interactive Experiences`
- 
+
+------------------------------------------------------------------------
+
 ## 🌟 Project Goal
 
 > **Calculate. Customize. Experience. ⚡**
 
 A calculator doesn't have to look ordinary.
 
+------------------------------------------------------------------------
 
+```{=html}
+<p align="center">
+```
 ### 🧮 KHURRAM CALCULATOR PRO
 
 **Built with ❤️ by Khurram Shahzad**
 
 ⭐ If you like the project, consider giving it a star!
+
+```{=html}
+</p>
+```
