@@ -6,7 +6,6 @@
 > CSS & JavaScript** --- combining powerful calculations with a polished
 > glassmorphism interface.
 
-------------------------------------------------------------------------
 
 ## 🚀 Highlights
 
@@ -23,7 +22,7 @@
   📱 Responsive UI         Desktop, tablet & mobile ready
   💾 Local Storage         Keeps settings and history locally
 
-------------------------------------------------------------------------
+
 
 ## 🎨 Premium UI
 
@@ -38,7 +37,6 @@ Designed with a modern **glassmorphism + aurora** visual system:
 -   📱 Touch-friendly controls
 -   🎬 Premium splash-screen experience
 
-------------------------------------------------------------------------
 
 ## 🔬 Scientific Calculator
 
@@ -51,7 +49,6 @@ The project is designed to provide both:
 
 **Advanced calculations** → `🔬 Scientific Mode`
 
-------------------------------------------------------------------------
 
 ## 🕘 Calculation History
 
@@ -64,7 +61,7 @@ Keep track of recent calculations without using a backend.
 -   🧹 Easy history management
 -   📋 Reuse/copy calculated results
 
-------------------------------------------------------------------------
+
 
 ## 🎨 Premium Themes
 
@@ -77,8 +74,6 @@ Choose from five built-in visual themes:
   🤍 Minimal White   Clean & minimal
   🌊 Ocean Neon      Neon-inspired interface
   🌅 Sunset Royale   Warm premium look
-
-------------------------------------------------------------------------
 
 ## ⚙️ Customization
 
@@ -101,7 +96,6 @@ Brightness can be adjusted between:
 
 Default: **100%**
 
-------------------------------------------------------------------------
 
 ## 🔊 Audio Experience
 
@@ -112,7 +106,6 @@ Users can control the audio experience from the settings panel.
 
 > 🎧 No external audio service or backend is required.
 
-------------------------------------------------------------------------
 
 ## ♿ Accessibility & Comfort
 
@@ -124,7 +117,6 @@ Built with user experience in mind:
 -   🌓 Dark / Light appearance
 -   📱 Responsive layouts
 
-------------------------------------------------------------------------
 
 ## 📱 Responsive Design
 
@@ -135,7 +127,6 @@ The interface adapts across:
 The layout is designed to remain usable in both portrait and landscape
 orientations.
 
-------------------------------------------------------------------------
 
 ## 💾 Local Storage
 
@@ -152,7 +143,6 @@ Stored experience can include:
 
 No external database is required.
 
-------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
@@ -166,8 +156,6 @@ Web Audio API
 Accessibility APIs
 ```
 
-------------------------------------------------------------------------
-
 ## 📂 Project Structure
 
 ``` text
@@ -178,8 +166,6 @@ KHURRAM-CALCULATOR-PRO/
 ```
 
 > The calculator is designed as a self-contained browser project.
-
-------------------------------------------------------------------------
 
 ## ▶️ Run Locally
 
@@ -208,13 +194,12 @@ No:
 
 Just open it and use it.
 
-------------------------------------------------------------------------
+ 
 
 ## 🧠 Design Philosophy
 
 **KHURRAM CALCULATOR PRO** focuses on three things:
-
-``` text
+ 
 ⚡ Functionality
 🎨 Premium Design
 📱 User Experience
@@ -222,8 +207,6 @@ Just open it and use it.
 
 The goal is to make a common calculator feel more like a polished modern
 web application.
-
-------------------------------------------------------------------------
 
 ## 📊 Project Overview
 
@@ -238,9 +221,7 @@ web application.
   Backend        None
   API            None
   Responsive     ✅ Yes
-
-------------------------------------------------------------------------
-
+ 
 ## 👨‍💻 Creator
 
 ### **Khurram Shahzad**
@@ -251,26 +232,16 @@ I build modern web experiences with a focus on:
 
 `🌐 Web Development` · `🤖 AI` · `🎨 UI/UX` ·
 `✨ Interactive Experiences`
-
-------------------------------------------------------------------------
-
+ 
 ## 🌟 Project Goal
 
 > **Calculate. Customize. Experience. ⚡**
 
 A calculator doesn't have to look ordinary.
 
-------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
 ### 🧮 KHURRAM CALCULATOR PRO
 
 **Built with ❤️ by Khurram Shahzad**
 
 ⭐ If you like the project, consider giving it a star!
-
-```{=html}
-</p>
-```
