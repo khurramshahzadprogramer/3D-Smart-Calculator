@@ -246,7 +246,10 @@ A calculator doesn't have to look ordinary.
 
 ------------------------------------------------------------------------
 
- 
+-
+
+```{=html}
+
 ```
 ### 🧮 KHURRAM CALCULATOR PRO
 
@@ -254,6 +257,6 @@ A calculator doesn't have to look ordinary.
 
 ⭐ If you like the project, consider giving it a star!
 
- 
+```{=html}
 
 ```
